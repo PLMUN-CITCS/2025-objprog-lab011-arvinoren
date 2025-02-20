@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class NumberClassifierMenu {
     public static void main(String[] args) {
       Scanner input = new Scanner(System.in);
-char userChoice;
+char userChoice='Y';
       do {
     // Menu and logic will go here
 } while (userChoice == 'Y'); // Condition to continue
